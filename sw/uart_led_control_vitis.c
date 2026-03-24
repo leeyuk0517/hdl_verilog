@@ -1,3 +1,12 @@
+/*
+uart_led_control_vitis 
+0123 q 시리얼 통신 입력받아서 그번호에 맞는 led 켜기 q 모두 끄기 
+
+
+*/
+
+
+
 #include <stdio.h>
 #include "xparameters.h"
 #include "xgpio.h"
